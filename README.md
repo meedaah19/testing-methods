@@ -67,6 +67,7 @@ Purpose:
 
 
 To get started with the test use:
+
     # Unit & integration tests (Jest)
         npm test
 
